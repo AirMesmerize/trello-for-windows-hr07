@@ -1,4 +1,4 @@
-
+ClickUp for Windows advanced Extension: cloud-sync & calendar-view offers the most advanced ClickUp for Windows extension, with cloud-sync and calendar-view. Ideal for Windows
 
 
 
